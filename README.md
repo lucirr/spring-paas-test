@@ -7,3 +7,6 @@
 - 참조: https://github.com/lucirr/spring-paas-test.git
 
 - 데모목적: 어플리케이션을 수동으로 쿠버네티스에 배포
+
+>> 브라우저 확인
+http://주소/index.do
