@@ -1,6 +1,6 @@
 FROM tomcat:7
 
-RUN rm -rf /usr/local/tomcat/webapps/ROOT
+# RUN rm -rf /usr/local/tomcat/webapps/ROOT
 
 ENV TZ=Asia/Seoul
 
